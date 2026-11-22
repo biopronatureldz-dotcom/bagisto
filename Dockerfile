@@ -1,2 +1,2 @@
 FROM webkul/bagisto:latest
-RUN rm -f/etc/naginx/sites-enabled/default
+RUN rm /etc/nginx/sites-enabled/default
